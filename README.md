@@ -5,7 +5,7 @@ A backend service that links customer contacts across multiple purchases using d
 ## Live Endpoint
 
 ```
-POST https://<your-deployed-url>/identify
+POST https://bitespeed-identity-qosp.onrender.com/
 ```
 
 ## Tech Stack
